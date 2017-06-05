@@ -1,0 +1,11 @@
+## Interface: 30300
+## Title: |cFFCA153BAgiCore|r
+## Version: 1.0.0
+## Author: Agita (Yvonne P.)
+
+#@no-lib-strip@
+Libs\LibStub\LibStub.lua
+#@end-no-lib-strip@
+
+AgiTimers\AgiTimers.lua
+AgiDialogs\AgiDialogs.lua
